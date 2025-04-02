@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=POOJANGHETIYA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **MERN Stack Projects**
@@ -16,6 +20,7 @@
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me: **poojanghetiya2712@gmail.com**
 - ⚡ Fun fact: When I'm not coding, you'll find me clicking photos📷, skating⛸ or vibing in peace🎵
+
 
 ## 🌐 Connect With Me
 <div align="center">
@@ -54,8 +59,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=POOJANGHETIYA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
