@@ -18,7 +18,7 @@
 - 🌱 Always learning and exploring **New Technologies**
 - 👨‍💻 All of my projects are available at [portfolio link]
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 How to reach me: **poojanghetiya2712@gmail.com**
+- 📫 How to reach me: **swe.poojan@gmail.com**
 - ⚡ Fun fact: When I'm not coding, you'll find me clicking photos📷, skating⛸ or vibing in peace🎵
 
 
