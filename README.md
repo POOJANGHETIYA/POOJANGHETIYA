@@ -1,15 +1,15 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1200&color=6A5ACD&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Poojan+Ghetiya;Software+Engineer;Building+Thoughtful+Software;Making+IT+Simple..."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1200&color=6A5ACD&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Poojan+Ghetiya;Software+Engineer;Building+Thoughtful+Solutions;Making+IT+Simple..."
     alt="Typing SVG"
   />
 </div>
 
 ---
 
-### Software Engineer
+### Software Engineer | Making IT Simple.
 
-I build software that is clean, reliable, and practical.
+I build solutions that is clean, reliable and practical.
 
 My work spans **application development, cloud infrastructure, and deployment**, with a strong focus on building systems that are easy to run, scale, and maintain in real production environments.
 
