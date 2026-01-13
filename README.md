@@ -13,7 +13,7 @@ I build software that is clean, reliable, and practical.
 
 My work spans **application development, cloud infrastructure, and deployment**, with a strong focus on building systems that are easy to run, scale, and maintain in real production environments.
 
-I enjoy turning unclear requirements into structured solutions, and I’m increasingly interested in how **AI can support developers and products** without adding unnecessary complexity.
+I enjoy turning unclear requirements into structured solutions, and I stay curious about emerging tools that can improve developer productivity.
 
 ---
 
@@ -24,7 +24,7 @@ I enjoy turning unclear requirements into structured solutions, and I’m increa
 - Scalable system and application architecture
 - CI/CD pipelines and automated deployments
 - Performance, reliability, and production readiness
-- Applying AI where it genuinely adds value
+- Building real products, not just demos
 
 ---
 
@@ -64,11 +64,6 @@ I enjoy turning unclear requirements into structured solutions, and I’m increa
 ![System Design](https://img.shields.io/badge/System%20Design-111111?style=flat)
 ![Scalable Architecture](https://img.shields.io/badge/Scalable%20Architecture-111111?style=flat)
 
-### AI & Applied Intelligence
-![AI APIs](https://img.shields.io/badge/AI%20APIs-111111?style=flat)
-![LLMs](https://img.shields.io/badge/LLMs-111111?style=flat)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-111111?style=flat)
-
 ---
 
 ## How I Approach Engineering
@@ -77,21 +72,11 @@ I enjoy turning unclear requirements into structured solutions, and I’m increa
 - Optimize for clarity before optimization for scale
 - Automate repetitive work wherever possible
 - Treat infrastructure as part of the product
-- Use AI as an assistive tool, not a shortcut
-
----
-
-## Currently Exploring
-
-- Production-grade backend patterns
-- Deployment automation and CI/CD improvements
-- Cost-aware cloud architectures
-- AI-assisted developer workflows
-- Product-focused engineering
+- Keep learning, but ship first
 
 ---
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/ghetiyapoojan
+- LinkedIn: https://linkedin.com/in/ghetiyapoojan  
 - Email: swe.poojan@gmail.com
