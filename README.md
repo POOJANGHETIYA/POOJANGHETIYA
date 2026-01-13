@@ -7,45 +7,66 @@
 
 ---
 
-### Software Engineer | Making IT Simple.
+### Software Engineer · Making IT simple
 
-I build solutions that is clean, reliable and practical.
+I build software that is clean, reliable and practical.
 
-My work spans **application development, cloud infrastructure, and deployment**, with a strong focus on building systems that are easy to run, scale, and maintain in real production environments.
+I work as a **software engineer** with a strong backend foundation. I take ownership from idea to production, covering application development, backend systems, cloud deployment and ongoing reliability.
 
-I enjoy turning unclear requirements into structured solutions, and I stay curious about emerging tools that can improve developer productivity.
+I enjoy simplifying complex requirements, shipping real features and building systems that teams can confidently run and extend.
 
 ---
 
 ## What I Work On
 
-- Backend and API development
-- Full lifecycle ownership: build, deploy, operate
-- Scalable system and application architecture
-- CI/CD pipelines and automated deployments
-- Performance, reliability, and production readiness
-- Building real products, not just demos
+- End-to-end product and application development
+- Backend APIs and real-time systems
+- Cloud deployment, hosting and runtime ownership
+- CI/CD and release automation
+- Database design and data modeling
+- Production readiness, reliability and performance
 
 ---
 
-## Tech Stack
+## Skills & Engineering Stack
 
-### Application Development
+### 1. Product & Application Engineering
+Building user-facing products with strong foundations.
+
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js)
 ![Redux](https://img.shields.io/badge/Redux-111111?style=flat&logo=redux)
 ![Material UI](https://img.shields.io/badge/Material--UI-111111?style=flat&logo=mui)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=flat&logo=tailwindcss)
+
+---
+
+### 2. Backend & Real-Time Systems
+Designing APIs and services that power products.
+
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111111?style=flat&logo=express)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-111111?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=flat)
+![PM2](https://img.shields.io/badge/PM2-111111?style=flat)
 
-### Databases & Backend Services
+---
+
+### 3. Data & Persistence Design
+Structuring data that scales with the product.
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat&logo=supabase)
+![Database Design](https://img.shields.io/badge/Schema%20Design%20%26%20Normalization-111111?style=flat)
+![Indexes](https://img.shields.io/badge/Indexes%20%26%20Relations-111111?style=flat)
 
-### Cloud, Platform & Hosting
+---
+
+### 4. Cloud, Deployment & Runtime Ownership
+Running software in real environments.
+
 ![AWS](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/GCP-111111?style=flat&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel)
@@ -55,10 +76,13 @@ I enjoy turning unclear requirements into structured solutions, and I stay curio
 ![SSL](https://img.shields.io/badge/SSL-111111?style=flat)
 ![Domain & Hosting](https://img.shields.io/badge/Domain%20%26%20Hosting-111111?style=flat)
 
-### DevOps & Engineering Practices
+---
+
+### 5. DevOps & Delivery Discipline
+Making shipping boring and reliable.
+
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=flat&logo=githubactions)
-![PM2](https://img.shields.io/badge/PM2-111111?style=flat)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=flat&logo=postman)
 ![System Design](https://img.shields.io/badge/System%20Design-111111?style=flat)
@@ -66,17 +90,25 @@ I enjoy turning unclear requirements into structured solutions, and I stay curio
 
 ---
 
+### 6. Applied Generative AI (Product Use)
+Using AI where it meaningfully improves the product.
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI%20APIs-111111?style=flat)
+
+---
+
 ## How I Approach Engineering
 
-- Build things that are easy to deploy and operate
-- Optimize for clarity before optimization for scale
-- Automate repetitive work wherever possible
-- Treat infrastructure as part of the product
-- Keep learning, but ship first
+- Own the problem, not just the code
+- Design data before business logic
+- Build with deployment and operations in mind
+- Prefer simple systems that evolve well
+- Automate releases and repetitive work
+- Use AI as leverage, not as a crutch
 
 ---
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/ghetiyapoojan  
+- LinkedIn: https://linkedin.com/in/ghetiyapoojan
 - Email: swe.poojan@gmail.com
