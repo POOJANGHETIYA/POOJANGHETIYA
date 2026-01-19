@@ -89,11 +89,14 @@ Making shipping boring and reliable.
 ![Scalable Architecture](https://img.shields.io/badge/Scalable%20Architecture-111111?style=flat)
 
 ---
-
 ### 6. Applied Generative AI (Product Use)
-Using AI where it meaningfully improves the product.
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI%20APIs-111111?style=flat)
+Integrating modern LLMs where they create real product value.
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat\&logo=openai)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-111111?style=flat\&logo=google)
+![Anthropic Claude](https://img.shields.io/badge/Claude-111111?style=flat)
+
 
 ---
 
